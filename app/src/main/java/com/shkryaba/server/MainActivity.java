@@ -27,8 +27,8 @@ public class MainActivity extends AppCompatActivity {
     private ProgressBar progressBar;
     private EditText editText;
 
-//  private OkHttpClient client;
-//  private HttpUrl.Builder builder;
+//   private OkHttpClient client;
+//   private HttpUrl.Builder builder;
 
     private IRestAPIforUser restAPIforUser;
 
